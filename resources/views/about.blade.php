@@ -4,9 +4,8 @@
     <title>About Autism Aware</title>
   </head>
   <body>
-    <h1>Sumon's Personal Information</h1>
-    <p>Name: Sumon</p>
-    <p>Age: 30</p>
+    <h1>Autism Aware </h1>
+    <p>A product of RDS</p>
     <p>Email: sumon@example.com</p>
     <p>Phone: 123-456-7890</p>
     <p>Address: 123 Main St, Anytown, USA</p>
